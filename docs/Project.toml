@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+PyPlot2Igor = "4aea8070-c6ca-4677-ac9e-cb9fcba1134a"
